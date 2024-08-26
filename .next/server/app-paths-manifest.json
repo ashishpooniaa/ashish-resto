@@ -1,6 +1,8 @@
 {
   "/page": "app/page.js",
-  "/explore/[name]/page": "app/explore/[name]/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/customer/[id]/route": "app/api/customer/[id]/route.js"
+  "/api/customer/locations/route": "app/api/customer/locations/route.js",
+  "/api/customer/route": "app/api/customer/route.js",
+  "/deliverypartner/page": "app/deliverypartner/page.js",
+  "/deliveryDashboard/page": "app/deliveryDashboard/page.js",
+  "/api/deliverypartner/order/[id]/route": "app/api/deliverypartner/order/[id]/route.js"
 }
