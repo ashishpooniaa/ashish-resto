@@ -64,7 +64,6 @@ const Page = () => {
           icon: 'success',
           title: 'Login Successful!',
           text: 'You will be redirected to the homepage.',
-          timer: 1500,
           showConfirmButton: false,
         });
       } else {

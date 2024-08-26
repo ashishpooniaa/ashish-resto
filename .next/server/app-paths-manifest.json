@@ -1,0 +1,8 @@
+{
+  "/deliveryDashboard/page": "app/deliveryDashboard/page.js",
+  "/explore/[name]/page": "app/explore/[name]/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/order/page": "app/order/page.js",
+  "/myprofile/page": "app/myprofile/page.js",
+  "/api/deliverypartner/order/[id]/route": "app/api/deliverypartner/order/[id]/route.js"
+}

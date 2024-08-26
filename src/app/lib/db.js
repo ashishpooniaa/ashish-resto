@@ -6,7 +6,7 @@ export const connectDB = async()=>{
         dbName:"restoDB"
        })
        console.log("Db connected...")
-    //    console.log(connection)
+       console.log(connection)
     } catch (error) {
         console.log("failed to connect with database")
         console.log(error);
